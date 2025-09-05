@@ -1,0 +1,55 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif">
+</div>
+
+# 👋 Olá, eu sou o Guilherme!
+
+🎮 Gamer, 💻 programador e 🎨 criativo. Sempre explorando novas ideias e desenvolvendo projetos legais com código!
+
+  Sou desenvolvedo FullStack Python com certificação 
+
+---
+
+### 🚀 Minhas stacks favoritas
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-ffd323?style=for-the-badge&logo=python&logoColor=blue"/>
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimcv1&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimcv1&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Guimcv1&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Nunes-dev&theme=tokyonight&row=2&column=3" />
+  <img src="https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=red">
+</div>
+
+
+---
+
+### 🌐 Me encontre por aí
+
+[![Instagram](https://img.shields.io/badge/-@seuInstagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guimcv_/)
+<img scr= "https://static.vecteezy.com/system/resources/previews/018/930/587/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="25">
+[![Linkedin]()](https://www.linkedin.com/in/guilherme-martins-75542928a/)
+
+---
+
+### 💡 Curiosidades
+
+- 👨‍💻 Crio apps multiplataforma com python flat  
+- 📱 Adoro desenvolver sistemas que resolvem problemas reais  
+- 🧠 Tenho várias ideias em andamento... sempre construindo algo novo!
+
+---
+
+> “Encontre, Analise e Resolva” 🚀
+
+
