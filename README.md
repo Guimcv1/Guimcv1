@@ -32,9 +32,9 @@
 
 ### 🌐 Me encontre por aí
 
-[![Instagram](https://img.shields.io/badge/-@seuInstagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guimcv_/)
+[![Instagram](https://img.shields.io/badge/-@Guimcv_-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guimcv_/)
 <img scr= "https://static.vecteezy.com/system/resources/previews/018/930/587/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="25">
-[![Linkedin](https://img.shields.io/badge/-@seulinkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-75542928a/)
+[![Linkedin](https://img.shields.io/badge/-@Guilherme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-75542928a/)
 
 ---
 
