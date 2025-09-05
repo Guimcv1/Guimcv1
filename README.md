@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-ffd323?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=red">
 </div>
 
 ---
@@ -28,7 +29,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimcv1&layout=compact&theme=tokyonight&hide_border=false"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Guimcv1&theme=tokyonight&hide_border=false"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Nunes-dev&theme=tokyonight&row=2&column=3" />
-  <img src="https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=red">
 </div>
 
 
