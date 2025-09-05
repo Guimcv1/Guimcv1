@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif">
-</div>
-
 # 👋 Olá, eu sou o Guilherme!
 
 🎮 Gamer, 💻 programador e 🎨 criativo. Sempre explorando novas ideias e desenvolvendo projetos legais com código!
@@ -38,7 +34,7 @@
 
 [![Instagram](https://img.shields.io/badge/-@seuInstagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guimcv_/)
 <img scr= "https://static.vecteezy.com/system/resources/previews/018/930/587/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="25">
-[![Linkedin]()](https://www.linkedin.com/in/guilherme-martins-75542928a/)
+[![Linkedin](https://img.shields.io/badge/-@seulinkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-75542928a/)
 
 ---
 
