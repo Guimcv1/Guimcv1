@@ -10,13 +10,14 @@
 
 <div style="display: flex; gap: 20px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-ffd323?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=red">
+  <img src="https://img.shields.io/badge/Python-ffd323?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/First-dcdcdc?style=for-the-badge&logo=first&logoColor=black">
-  <img src="https://img.shields.io/badge/Unity-dcdcdc?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/Autocad-000000?style=for-the-badge&logo=autocad&logoColor=red">
+  <img src="https://img.shields.io/badge/Unity-dcdcdc?style=for-the-badge&logo=unity&logoColor=black">
+
 </div>
 
 ---
