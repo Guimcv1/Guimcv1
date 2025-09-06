@@ -14,9 +14,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-ffd323?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=red">
-  <img src="https://img.shields.io/badge/Fusion_360-FF9800?style=for-the-badge&logo=autodesk&logoColor=white">
-  <img src="https://img.shields.io/badge/Frist-FFFFFF?style=for-the-badge&logo=fristk">
+  <img src="https://img.shields.io/badge/First-dcdcdc?style=for-the-badge&logo=first&logoColor=black">
+  <img src="https://img.shields.io/badge/Frist-FFFFFF?style=for-the-badge&logo=frist">
   <img src="https://img.shields.io/badge/Unity-dcdcdc?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Autocad-000000?style=for-the-badge&logo=autocad&logoColor=red">
 </div>
 
 ---
