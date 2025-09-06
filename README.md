@@ -28,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimcv1&show_icons=true&theme=tokyonight&hide_border=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimcv1&layout=compact&theme=tokyonight&hide_border=false"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Guimcv1&theme=tokyonight&hide_border=false"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Nunes-dev&theme=tokyonight&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Guimcv1&theme=tokyonight&row=2&column=3" />
 </div>
 
 
