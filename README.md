@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Minhas stacks favoritas
+### 🚀 Minhas ferramentas mais usadas
 
 <div style="display: flex; gap: 20px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
