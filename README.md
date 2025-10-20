@@ -2,7 +2,7 @@
 
 🎮 Gamer, 💻 programador e 🎨 criativo. Sempre explorando novas ideias e desenvolvendo projetos legais com código!
 
-  Sou desenvolvedo FullStack Python com certificação 
+  Sou desenvolvedor FullStack Python com certificação 
 
 ---
 
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Fusion_360-FF9800?style=for-the-badge&logo=autodesk&logoColor=white">
   <img src="https://img.shields.io/badge/Autocad-000000?style=for-the-badge&logo=autocad&logoColor=red">
   <img src="https://img.shields.io/badge/Unity-dcdcdc?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/React%20Native-00FFFF?style=for-the-badge&logo=react&logoColor=black">
 
 </div>
 
