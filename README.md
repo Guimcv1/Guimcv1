@@ -40,12 +40,10 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guimcv1&show_icons=true&theme=tokyonight&hide_border=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guimcv1&layout=compact&theme=tokyonight&hide_border=false"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Guimcv1&theme=tokyonight&hide_border=false"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Guimcv1&theme=tokyonight&row=2&column=3" />
-</div>
 
 
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guimcv1&theme=tokyo-night)
 
 ### 🌐 Me encontre por aí
 
@@ -54,6 +52,9 @@
 [![Linkedin](https://img.shields.io/badge/-@Guilherme-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-martins-75542928a/)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=guimcv1&color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/guimcv1/aula-de-python)
+![Repos](https://img.shields.io/badge/Public%20Repos-15-blue)
 
 ### 💡 Curiosidades
 
