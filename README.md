@@ -6,20 +6,31 @@
 
 ---
 
-### 🚀 Minhas ferramentas mais usadas
+### Minhas ferramentas mais usadas
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git&logoColor=red">
-  <img src="https://img.shields.io/badge/Python-ffd323?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/First-dcdcdc?style=for-the-badge&logo=first&logoColor=black">
   <img src="https://img.shields.io/badge/Fusion_360-FF9800?style=for-the-badge&logo=autodesk&logoColor=white">
   <img src="https://img.shields.io/badge/Autocad-000000?style=for-the-badge&logo=autocad&logoColor=red">
   <img src="https://img.shields.io/badge/Unity-dcdcdc?style=for-the-badge&logo=unity&logoColor=black">
-  <img src="https://img.shields.io/badge/React%20Native-00FFFF?style=for-the-badge&logo=react&logoColor=black">
+</div>
 
+### Minhas linguagens mais usadas
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+    <img align="center" alt="flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="mysql" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
+    <img align="center" alt="trello" height="40" width="40" src="https://img.icons8.com/?size=512&id=21049&format=png">
+    <img align="center" alt="csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    
 </div>
 
 ---
