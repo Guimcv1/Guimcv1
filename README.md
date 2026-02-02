@@ -40,7 +40,13 @@
 <div align="center">
   <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Guimcv1&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github"/>
   <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Guimcv1&layout=compact&theme=dracula"/>
-
+  <img
+        align="center"
+        alt="Gráfico de sequência semanal"
+        height="200"
+        style="display: block; margin: 10px auto;"
+        src="https://streak-stats.demolab.com?user=guimcv1&locale=pt_BR&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3"
+    />
 
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guimcv1&theme=tokyo-night)
