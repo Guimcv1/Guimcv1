@@ -3,6 +3,7 @@ import FloatingLines from "../components/FloatingLines";
 import ClickSpark from "../components/ClickSpark";
 import CardNav from "../components/CardNav";
 
+
 // Configuração dos itens de navegação
 const NAVIGATION_ITEMS = [
   {
