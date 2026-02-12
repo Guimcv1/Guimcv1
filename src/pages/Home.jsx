@@ -4,7 +4,8 @@ import FloatingLines from '/src/components/FloatingLines.jsx';
 
 const App = () => {
     return (
-        <div style={{ width: '100%', height: '600px', position: 'relative' }}>
+        <div className='flex w-screen h-screen'>
+            <div style={{ width: '100%', height: '600px', position: 'relative' }}>
     <FloatingLines 
         enabledWaves={["top","middle","bottom"]}
         // Array - specify line count per wave; Number - same count for all waves
@@ -17,6 +18,8 @@ const App = () => {
         parallax={true}
         />
     </div>
+        </div>
+        
 );};
 
 export default App;
