@@ -1,7 +1,7 @@
 import React from 'react';
 import FloatingLines from '/src/components/FloatingLines.jsx';
 
-
+//Não ta funcionando essa bomba
 const App = () => {
     return (
         <div className='flex w-screen h-screen'>
