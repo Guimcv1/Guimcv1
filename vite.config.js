@@ -9,5 +9,5 @@ export default defineConfig({
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  base: './',
+  base: '/Guimcv_site/',
 })
